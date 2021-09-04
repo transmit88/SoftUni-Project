@@ -1,2 +1,3 @@
 # SoftUni-Project
-SoftUni Projects
+
+This repo holds my basics projects
